@@ -13,3 +13,6 @@ I'm interested in the cloud and all the cool stuff in it. I'm also interested in
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/5v4hlDwdIKurAURmKW/giphy.gif" />
 
+### Connect with me
+* [my linkedin][https://www.linkedin.com/in/ishaqsiddiqui/]
+
